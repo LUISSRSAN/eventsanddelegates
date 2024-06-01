@@ -1,0 +1,4 @@
+/Users/luissantiago/Desktop/csharpstuff/eventsanddelegates/obj/Debug/net8.0/eventsanddelegates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luissantiago/Desktop/csharpstuff/eventsanddelegates/obj/Debug/net8.0/eventsanddelegates.AssemblyInfoInputs.cache
+/Users/luissantiago/Desktop/csharpstuff/eventsanddelegates/obj/Debug/net8.0/eventsanddelegates.AssemblyInfo.cs
+/Users/luissantiago/Desktop/csharpstuff/eventsanddelegates/obj/Debug/net8.0/eventsanddelegates.csproj.CoreCompileInputs.cache
